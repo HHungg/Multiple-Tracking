@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenCV_Demo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Multiple_Tracking_v2.cpp
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(173): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(174): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(185): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(260): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(264): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(265): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(269): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kaise\documents\visual studio 2017\projects\opencv_demo\opencv_demo\multiple_tracking_v2.cpp(270): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Multiple_Tracking_v1.cpp
+  Multiple_MIL.cpp
+  HOG_human.cpp
+  HOG.cpp
+  Generating Code...
+  OpenCV_Demo.vcxproj -> C:\Users\kaise\documents\visual studio 2017\Projects\OpenCV_Demo\x64\Debug\OpenCV_Mutiple Tracking.exe
+  OpenCV_Demo.vcxproj -> C:\Users\kaise\documents\visual studio 2017\Projects\OpenCV_Demo\x64\Debug\OpenCV_Mutiple Tracking.pdb (Partial PDB)
